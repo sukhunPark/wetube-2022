@@ -1,0 +1,16 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "yalralloo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukhunPark/wetube-2022.git"
+  },
+  "author": "Yalralloo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukhunPark/wetube-2022/issues"
+  },
+  "homepage": "https://github.com/sukhunPark/wetube-2022#readme"
+}
